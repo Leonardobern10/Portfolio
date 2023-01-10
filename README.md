@@ -7,7 +7,7 @@ códigos de Python/Machine Learning. Fique à vontade para acompanhar e qualquer
 e entre em contato, será uma prazer trocar conhecimento.
 
 
-### 🚀 Sobre mim
+### Sobre mim
 Meu nome é Leonardo de Almeida, sou Cientista de Dados Junior, recém chegado à área mas com muito 
 estusiasmo e vontade de aprender, desenvolver e aprimorar em todas as áreas.
 
